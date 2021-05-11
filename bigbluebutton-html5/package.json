@@ -47,7 +47,7 @@
     "hark": "^1.2.3",
     "immutability-helper": "~2.8.1",
     "langmap": "0.0.16",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "makeup-screenreader-trap": "0.0.5",
     "meteor-node-stubs": "^1.0.1",
     "node-sass": "^4.14.1",
